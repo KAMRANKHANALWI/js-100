@@ -1,5 +1,4 @@
 // Check occurrence of a character Using for Loop
-// Regex = ?
 
 function countString(str, letter) {
     let count = 0;
